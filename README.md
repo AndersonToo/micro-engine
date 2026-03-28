@@ -102,10 +102,10 @@ python test_concurrency.py
 
 | Milestone | Deliverable | Status |
 |-----------|-------------|--------|
-| 1 | Raw socket server prints HTTP headers | 
-| 2 | Async router with decorator syntax |
-| 3 | Python object saved to SQLite via `model.save()` 
-| 4 | 10 concurrent requests handled without blocking |
+| 1 | Raw socket server prints HTTP headers | ✅ |
+| 2 | Async router with decorator syntax | ✅ |
+| 3 | Python object saved to SQLite via `model.save()` | ✅ |
+| 4 | 10 concurrent requests handled without blocking | ✅ |
 
 ---
 
